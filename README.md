@@ -1,1 +1,1 @@
-# js30-29-countdown-clock
+# JavaScript 30 #29: Countdown Clock
